@@ -1,7 +1,7 @@
 # Jakub Grzywaczewski - ZetrextJG
 
 ### 👨‍💻 About Me
-I'm a Research Engineer working at **MI2** and a Data Science MSc student at Warsaw University of Technology at the facult of Mathematics and Information Science. 
+I'm a Research Engineer working at **MI2** and a Data Science MSc student at Warsaw University of Technology. 
 
 Passionate about deep learning, generative models, data science and overall software development. 
 
