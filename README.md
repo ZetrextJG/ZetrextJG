@@ -41,4 +41,4 @@ Gaussian model Invariant by Permutation Symmetry (R package).
 
 ---
 
-🚀 Always open to collaborations and research opportunities!
+### 🚀 Always open to collaborations and research opportunities!
