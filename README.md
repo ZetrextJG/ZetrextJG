@@ -23,6 +23,9 @@ Advanced Machine Learning course project. Ongoing...
 - ✈️ [SafeFlight-BigData](https://github.com/ZetrextJG/SafeFlight-BigData)
 Big Data project involing aviation delay data gathering.
 
+- 🧠 [RL-DonkeyKong](https://github.com/OptimalAgents/RL-DonkeyKong)
+Case study project: Deep Reinforcement Learning Agent beating Donkey Kong.
+
 - 🤖 [MIO](https://github.com/ZetrextJG/MIO)
 Methods of Artificial Intelegence projects: Kohonen networks, Feed Forward neural networks and Evolutionary algorithms everything from scratch.
 
