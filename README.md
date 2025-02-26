@@ -27,7 +27,7 @@ Big Data project involing aviation delay data gathering.
 Methods of Artificial Intelegence projects: Kohonen networks, Feed Forward neural networks and Evolutionary algorithms everything from scratch.
 
 - 📡 [PlanPodboju5G](https://github.com/ZetrextJG/PlanPodboju5G)
-Applications of Markov Chains project for optimal network expansion strategy
+Applications of Markov Chains project for optimal network expansion strategy.
 
 
 ### 🤝 Contributing to open source 
