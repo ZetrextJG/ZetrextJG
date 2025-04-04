@@ -17,8 +17,8 @@ An R package for automated serological data analysis.
 
 ### 🎓 Recent university projects
 
-- 🔬 [AdvML (Private)]()
-Advanced Machine Learning course project. Ongoing...
+- 🔬 [LogRegCCD](https://github.com/ZetrextJG/LogRegCCD)
+Experimenting with Cyclic Coordiant Descent for Logistic Regression. Advanced Machine Learning project.
 
 - ✈️ [SafeFlight-BigData](https://github.com/ZetrextJG/SafeFlight-BigData)
 Big Data project involing aviation delay data gathering.
