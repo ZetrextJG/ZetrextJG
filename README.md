@@ -11,7 +11,7 @@ I work on various projects involving Python, R, Rust and more.
 
 ### 🔧 Currently busy building
 
-- 📊 [PvSTATEM](https://github.com/mini-pw/PvSTATEM)
+- 📊 [SerolyzeR](https://github.com/mini-pw/SerolyzeR)
 An R package for automated serological data analysis.
 
 
